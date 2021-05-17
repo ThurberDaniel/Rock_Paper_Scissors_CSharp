@@ -1,0 +1,15 @@
+/Users/q90/Desktop/BCW/Week_10/1-Monday/Rock_Paper_Scissors_CSharp/bin/Debug/net5.0/Rock_Paper_Scissors_CSharp.deps.json
+/Users/q90/Desktop/BCW/Week_10/1-Monday/Rock_Paper_Scissors_CSharp/bin/Debug/net5.0/Rock_Paper_Scissors_CSharp.runtimeconfig.json
+/Users/q90/Desktop/BCW/Week_10/1-Monday/Rock_Paper_Scissors_CSharp/bin/Debug/net5.0/Rock_Paper_Scissors_CSharp.runtimeconfig.dev.json
+/Users/q90/Desktop/BCW/Week_10/1-Monday/Rock_Paper_Scissors_CSharp/bin/Debug/net5.0/Rock_Paper_Scissors_CSharp.dll
+/Users/q90/Desktop/BCW/Week_10/1-Monday/Rock_Paper_Scissors_CSharp/bin/Debug/net5.0/ref/Rock_Paper_Scissors_CSharp.dll
+/Users/q90/Desktop/BCW/Week_10/1-Monday/Rock_Paper_Scissors_CSharp/bin/Debug/net5.0/Rock_Paper_Scissors_CSharp.pdb
+/Users/q90/Desktop/BCW/Week_10/1-Monday/Rock_Paper_Scissors_CSharp/obj/Debug/net5.0/Rock_Paper_Scissors_CSharp.csprojAssemblyReference.cache
+/Users/q90/Desktop/BCW/Week_10/1-Monday/Rock_Paper_Scissors_CSharp/obj/Debug/net5.0/Rock_Paper_Scissors_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/q90/Desktop/BCW/Week_10/1-Monday/Rock_Paper_Scissors_CSharp/obj/Debug/net5.0/Rock_Paper_Scissors_CSharp.AssemblyInfoInputs.cache
+/Users/q90/Desktop/BCW/Week_10/1-Monday/Rock_Paper_Scissors_CSharp/obj/Debug/net5.0/Rock_Paper_Scissors_CSharp.AssemblyInfo.cs
+/Users/q90/Desktop/BCW/Week_10/1-Monday/Rock_Paper_Scissors_CSharp/obj/Debug/net5.0/Rock_Paper_Scissors_CSharp.csproj.CoreCompileInputs.cache
+/Users/q90/Desktop/BCW/Week_10/1-Monday/Rock_Paper_Scissors_CSharp/obj/Debug/net5.0/Rock_Paper_Scissors_CSharp.dll
+/Users/q90/Desktop/BCW/Week_10/1-Monday/Rock_Paper_Scissors_CSharp/obj/Debug/net5.0/ref/Rock_Paper_Scissors_CSharp.dll
+/Users/q90/Desktop/BCW/Week_10/1-Monday/Rock_Paper_Scissors_CSharp/obj/Debug/net5.0/Rock_Paper_Scissors_CSharp.pdb
+/Users/q90/Desktop/BCW/Week_10/1-Monday/Rock_Paper_Scissors_CSharp/obj/Debug/net5.0/Rock_Paper_Scissors_CSharp.genruntimeconfig.cache
